@@ -1,0 +1,9 @@
+python3.10
+spacy==3.8.3
+requests 
+beautifulsoup4 
+lxml
+json
+transformers
+torch
+re 
